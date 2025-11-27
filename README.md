@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="center">Sou estudante e Engenharia de software, seja muito bem-vindo às minhas práticas acadêmicas e profissionais. Contate-me através das redes sociais abaixo!</h5>
+<h5 align="center">Sou estudante de Engenharia de Software, seja muito bem-vindo às minhas práticas acadêmicas e profissionais. Contate-me através das redes sociais abaixo!</h5>
 
 ###
 
@@ -54,4 +54,5 @@
 </div>
 
 ###
+
 
